@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(236, 229, 245);
+
+}
+h1{
+    background-color:  rgb(247, 250, 242);
+    color: rgb(61, 7, 66);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 300px;
+    border: 10px ridge rgb(61, 8, 63) ;
+    padding: 6px;
+    border-radius: 15px;
+    margin: auto;
+    text-transform: capitalize;
+}
+#body{
+    background-color: rgb(253, 255, 249);
+    color: rgb(95, 9, 116);
+    font-family: serif;
+    font-size: 25px;
+    font-weight: bolder;
+    border: 5px ridge rgb(48, 5, 57);
+    text-align: center;
+    width: 170px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 15px;
+    padding: 5px;
+    
+
+
+}
