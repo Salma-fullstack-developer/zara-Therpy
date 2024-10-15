@@ -7,9 +7,9 @@ document.write("<table border='1'>")
 for(let i=a; i<=b;i++)
 {
   if(i%2 == 0) {     
-        document.write("<tr style='background-color:blue;color:white'><td>"+ number+"</td><td>*</td><td>"+i+"</td><td>=</td><td>"+ number*i+"</td></tr>")  
+        document.write("<tr style='background-color:rgba(156, 7, 175, 0.853);color:white;'><td >"+ number+"</td><td>x</td><td>"+i+"</td><td>=</td><td>"+ number*i+"</td></tr>")  
 } else{
-        document.write("<tr style='background-color:yellow;color:white'><td>"+ number+"</td><td>*</td><td>"+i+"</td><td>=</td><td>"+ number*i+"</td></tr> <br>")  
+        document.write("<tr style='background-color: rgba(80, 4, 90, 0.853);color:white'><td >"+ number+"</td><td>x</td><td>"+i+"</td><td>=</td><td>"+ number*i+"</td></tr> <br>")  
 }
 
 
